@@ -63,7 +63,7 @@ export default function Home() {
               <a href="https://lxm.house" className="underline">
                 lxm.house
               </a>{" "}
-              (182 thorndike, cambridge ma)
+              (182 thorndike, cambridge, ma)
             </li>
           </ul>
         </div>
