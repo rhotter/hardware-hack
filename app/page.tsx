@@ -56,7 +56,7 @@ export default function Home() {
           <ul className="">
             <li>
               <span className="font-bold">when?</span> sunday, december 10 at 10
-              am. demos at 9 pm.
+              am. demos at 7:30 pm.
             </li>
             <li>
               <span className="font-bold">where?</span>{" "}
