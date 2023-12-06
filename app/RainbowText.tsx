@@ -25,7 +25,7 @@ export const RainbowText = ({ text }: { text: string }) => {
 
   return (
     <div>
-      <a href="https://partiful.com/e/uVRZBVKEr14l9iJUZcaw">
+      <a href="https://partiful.com/e/Jj0kUGKRbLoutRkHCFQ7">
         {characters.map((char, index) => (
           <span key={index} className={colors[index % colors.length]}>
             {char}
