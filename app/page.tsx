@@ -10,7 +10,7 @@ export default function Home() {
         <Image
           src="/hack.png"
           width={400}
-          height={600}
+          height={155}
           alt="Hack picture"
           className="pb-8"
         />
